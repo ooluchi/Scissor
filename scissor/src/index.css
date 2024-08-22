@@ -17,7 +17,7 @@ code {
     monospace;
 }
 
-/* src/index.css or src/App.css */
+
 .btn {
   padding: 10px 20px;
   background-color: #3b82f6;
@@ -41,3 +41,8 @@ code {
   margin-top: 20px;
 }
 
+.name{
+  background: linear-gradient(to right, #8000ff, #ff66c4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

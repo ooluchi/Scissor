@@ -1,3 +1,5 @@
+import React from 'react';
+
 const UrlList: React.FC = () => {
     // Sample data
     const urls = [
