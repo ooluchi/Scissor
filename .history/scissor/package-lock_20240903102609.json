@@ -1,4 +1,10 @@
 {
+<<<<<<< HEAD
+  "name": "Scissor",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {}
+=======
   "name": "scissor",
   "version": "0.1.0",
   "lockfileVersion": 3,
@@ -20120,4 +20126,5 @@
       }
     }
   }
+>>>>>>> 5a823da (ch)
 }

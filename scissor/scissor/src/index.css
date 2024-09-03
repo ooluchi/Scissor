@@ -20,7 +20,7 @@ code {
 
 .btn {
   padding: 10px 20px;
-  background-color: #ff66c4;
+  background-color: #3b82f6;
   color: white;
   border-radius: 5px;
   font-weight: bold;
@@ -29,7 +29,7 @@ code {
 }
 
 .btn:hover {
-  background-color: #f8addb;
+  background-color: #2563eb;
 }
 
 .input {
@@ -42,7 +42,7 @@ code {
 }
 
 .name{
-  background: linear-gradient(to right, #d60988, #b81579);
+  background: linear-gradient(to right, #8000ff, #ff66c4);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }

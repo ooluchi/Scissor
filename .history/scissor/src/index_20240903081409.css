@@ -42,7 +42,7 @@ code {
 }
 
 .name{
-  background: linear-gradient(to right, #d60988, #b81579);
+  background: linear-gradient(to right, #8000ff, #b81579);
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
 }

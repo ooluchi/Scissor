@@ -1,3 +1,4 @@
+git add package.json package-lock.json
 {
   "name": "scissor",
   "version": "0.1.0",
